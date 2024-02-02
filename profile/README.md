@@ -1,3 +1,4 @@
+[![Infopulse profile views](https://u8views.com/api/v1/github/profiles/146939298/views/day-week-month-total-count.svg)](https://u8views.com/github/infopulse)
 ## We are Infopulse
 End-to-End Digital Services & Solutions since 1991 | Part of Tietoevry
 
