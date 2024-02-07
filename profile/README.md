@@ -1,6 +1,10 @@
 [![Infopulse profile views](https://u8views.com/api/v1/github/profiles/146939298/views/day-week-month-total-count.svg)](https://u8views.com/github/infopulse)
-## We are Infopulse
+![Infopulse cover image](cover-infopulse-github-2.jpg)
+# We are Infopulse
 End-to-End Digital Services & Solutions since 1991 | Part of Tietoevry
+
+## Our goal here
+Share open source projects with the community to improve quality of services and solutions
 
 <!--
 
